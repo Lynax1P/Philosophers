@@ -14,8 +14,6 @@
 
 
 42 School threading project  
-[subject.pdf](https://cdn.intra.42.fr/pdf/pdf/26231/en.subject.pdf)   
-
   
   
 ### Make
