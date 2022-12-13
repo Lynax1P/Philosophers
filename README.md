@@ -1,5 +1,3 @@
-# philo
-
 #### <div align="center"> love & death & philosophers  </div>  
 
 ```   
